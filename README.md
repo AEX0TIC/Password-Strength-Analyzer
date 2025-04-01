@@ -97,6 +97,6 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## 🙏 Acknowledgements
 
-- Barclays for the opportunity to develop this solution
+- For the opportunity to develop this solution
 - The scikit-learn team for their excellent machine learning library
 - Streamlit for making it easy to create interactive web applications
