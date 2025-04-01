@@ -35,7 +35,7 @@ This Password Strength Analyzer uses sophisticated machine learning algorithms t
 ```bash
 # Clone the repository
 git clone https://github.com/yourusername/password-analyzer.git
-cd barclays-password-analyzer
+cd-password-analyzer
 
 # Install dependencies
 pip install -r requirements.txt
