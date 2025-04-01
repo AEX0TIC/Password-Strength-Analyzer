@@ -75,7 +75,7 @@ print(f"Strength: {result['strength_label']} ({result['strength_score']}/4)")
 print(f"Feedback: {result['feedback']}")
 ```
 
-## 🔍 Why This Matters to Barclays
+## 🔍 Why This Matters 
 
 - **Reduced Fraud Risk**: Stronger passwords mean fewer account takeovers
 - **Regulatory Compliance**: Helps meet GDPR, PCI-DSS, and ISO 27001 requirements
@@ -85,7 +85,7 @@ print(f"Feedback: {result['feedback']}")
 
 ## 🔮 Future Enhancements
 
-- Integration with Barclays' existing authentication systems
+- Integration with existing authentication systems
 - Multi-factor authentication (MFA) recommendations
 - Real-time breach database checking
 - Behavioral analysis for suspicious password changes
