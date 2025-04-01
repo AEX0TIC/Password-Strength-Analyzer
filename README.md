@@ -1,4 +1,4 @@
-# Barclays Password Strength Analyzer
+# Password Strength Analyzer
 
 A machine learning-based password strength analyzer designed specifically for banking security needs. This project was developed for the Barclays Hackathon (Hack o Hire) to demonstrate how advanced ML techniques can enhance password security in financial institutions.
 
