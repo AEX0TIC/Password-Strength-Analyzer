@@ -1,0 +1,43 @@
+2025-03-30 16:51:11,250 - __main__ - INFO - Loaded password analyzer model from models/random_forest_model.joblib
+2025-03-30 16:51:11,250 - __main__ - INFO - API Key: 02b76...bada6 (Keep this secure!)
+2025-03-30 16:51:12,559 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.3.187.237:5000
+2025-03-30 16:51:12,560 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-03-30 16:51:28,956 - __main__ - WARNING - Invalid API key attempt from 127.0.0.1
+2025-03-30 16:51:28,956 - werkzeug - INFO - 127.0.0.1 - - [30/Mar/2025 16:51:28] "[31m[1mGET / HTTP/1.1[0m" 401 -
+2025-03-30 16:51:28,987 - __main__ - WARNING - Invalid API key attempt from 127.0.0.1
+2025-03-30 16:51:28,988 - werkzeug - INFO - 127.0.0.1 - - [30/Mar/2025 16:51:28] "[31m[1mGET /favicon.ico HTTP/1.1[0m" 401 -
+2025-03-30 16:51:42,205 - __main__ - WARNING - Invalid API key attempt from 10.3.187.237
+2025-03-30 16:51:42,205 - werkzeug - INFO - 10.3.187.237 - - [30/Mar/2025 16:51:42] "[31m[1mGET / HTTP/1.1[0m" 401 -
+2025-03-30 16:51:42,248 - werkzeug - ERROR - 10.3.187.237 - - [30/Mar/2025 16:51:42] code 400, message Bad request version ('\x13\x01\x13\x03\x13\x02À+À/Ì©Ì¨À,À0À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x06Ü\x00\x17\x00\x00ÿ\x01\x00\x01\x00\x00')
+2025-03-30 16:51:42,248 - werkzeug - INFO - 10.3.187.237 - - [30/Mar/2025 16:51:42] "[31m[1m\x16\x03\x01\x07G\x01\x00\x07C\x03\x03·ÀV\x11 \x83\x13\x01~¹|\x82C\x8fk\x02]\x0cú"4iT@\x8e×æ\x15\x90N&@ \x11Ñ'8XÛîïm&¢$göacÀÌÆè\x1c\x85Ù\x19§~dy\x09W}½\x00\x1e\x13\x01\x13\x03\x13\x02À+À/Ì©Ì¨À,À0À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x06Ü\x00\x17\x00\x00ÿ\x01\x00\x01\x00\x00[0m" 400 -
+2025-03-30 16:51:42,251 - werkzeug - ERROR - 10.3.187.237 - - [30/Mar/2025 16:51:42] code 400, message Bad request version ('\x00\x17\x00\x00ÿ\x01\x00\x01\x00\x00')
+2025-03-30 16:51:42,251 - werkzeug - INFO - 10.3.187.237 - - [30/Mar/2025 16:51:42] "[31m[1m\x16\x03\x01\x02v\x01\x00\x02r\x03\x03¼É\x81 \x81\x85°\x1a»HÛ\x8bE \x98\x8ex¨¯:òå¨º\x15\x9ee\x8a\x1c\x9fYZ \x16ß`\x80\x01\x866P\x0bS.¹þ\x1e¶D¼d\x13M?$Ì\x86\x9b9\x9e(Dã<\x96\x00\x1e\x13\x01\x13\x03\x13\x02À+À/Ì©Ì¨À,À0À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x02\x0b\x00\x17\x00\x00ÿ\x01\x00\x01\x00\x00[0m" 400 -
+2025-03-30 16:59:17,819 - __main__ - INFO - Loaded password analyzer model from models/random_forest_model.joblib
+2025-03-30 16:59:17,820 - __main__ - INFO - API Key: ab965...131f9 (Keep this secure!)
+2025-03-30 16:59:19,111 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.3.187.237:5000
+2025-03-30 16:59:19,111 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-03-30 16:59:34,539 - __main__ - WARNING - Invalid API key attempt from 10.3.187.237
+2025-03-30 16:59:34,539 - werkzeug - INFO - 10.3.187.237 - - [30/Mar/2025 16:59:34] "[31m[1mGET / HTTP/1.1[0m" 401 -
+2025-03-30 16:59:34,577 - werkzeug - ERROR - 10.3.187.237 - - [30/Mar/2025 16:59:34] code 400, message Bad request version ('\x13\x01\x13\x03\x13\x02À+À/Ì©Ì¨À,À0À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x06Ü\x00\x17\x00\x00ÿ\x01\x00\x01\x00\x00')
+2025-03-30 16:59:34,578 - werkzeug - INFO - 10.3.187.237 - - [30/Mar/2025 16:59:34] "[31m[1m\x16\x03\x01\x07G\x01\x00\x07C\x03\x03\x8f,}é;§P\x8aH\x83åÁò]¤¼ÌAF\x15¨m£\x8dSº\x91Íýë²| é\x15\x92{¶]­7\x7f\x02ç¨\x9a÷\x9bW#dª¿gÔw\x04W\x11¢olW\x09\x85\x00\x1e\x13\x01\x13\x03\x13\x02À+À/Ì©Ì¨À,À0À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x06Ü\x00\x17\x00\x00ÿ\x01\x00\x01\x00\x00[0m" 400 -
+2025-03-30 16:59:34,579 - werkzeug - ERROR - 10.3.187.237 - - [30/Mar/2025 16:59:34] code 400, message Bad request version ('ÞÒiÀj')
+2025-03-30 16:59:34,580 - werkzeug - INFO - 10.3.187.237 - - [30/Mar/2025 16:59:34] "[31m[1m\x16\x03\x01\x02v\x01\x00\x02r\x03\x03\x19Ï7T\x95½)þÙ¿ô\x97Wª Æjúec°<ïL\x0eêC1Ùµ¯\x8c sByÍb\x1fHF\x1fÞÒiÀj[0m" 400 -
+2025-03-30 18:21:35,484 - __main__ - INFO - Loaded password analyzer model from models/random_forest_model.joblib
+2025-03-30 18:21:35,485 - __main__ - INFO - API Key: 008cc...9162f (Keep this secure!)
+2025-03-30 18:21:37,029 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.3.187.237:5000
+2025-03-30 18:21:37,030 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-03-30 18:23:34,038 - __main__ - WARNING - Invalid API key attempt from 10.3.187.237
+2025-03-30 18:23:34,042 - werkzeug - INFO - 10.3.187.237 - - [30/Mar/2025 18:23:34] "[31m[1mGET / HTTP/1.1[0m" 401 -
+2025-03-30 18:23:34,233 - werkzeug - ERROR - 10.3.187.237 - - [30/Mar/2025 18:23:34] code 400, message Bad request version ('\x13\x01\x13\x03\x13\x02À+À/Ì©Ì¨À,À0À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x06Ü\x00\x17\x00\x00ÿ\x01\x00\x01\x00\x00')
+2025-03-30 18:23:34,234 - werkzeug - INFO - 10.3.187.237 - - [30/Mar/2025 18:23:34] "[31m[1m\x16\x03\x01\x07G\x01\x00\x07C\x03\x03¼\x11]@>} `ØòÂáªÌ§Ü\x8cgÅ"Ì\x8e\x92gd?a<ô\x91ôk \x16'\x84Ä\x02\x7f\x1f\x7fWI\x0bì\x96b\x09åqØ\x9d¿\x8b\x19«\x12vµ\x16RF×Ë6\x00\x1e\x13\x01\x13\x03\x13\x02À+À/Ì©Ì¨À,À0À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x06Ü\x00\x17\x00\x00ÿ\x01\x00\x01\x00\x00[0m" 400 -
+2025-03-30 18:23:34,240 - werkzeug - ERROR - 10.3.187.237 - - [30/Mar/2025 18:23:34] code 400, message Bad request version ('\x00\x17\x00\x00ÿ\x01\x00\x01\x00\x00')
+2025-03-30 18:23:34,246 - werkzeug - INFO - 10.3.187.237 - - [30/Mar/2025 18:23:34] "[31m[1m\x16\x03\x01\x02v\x01\x00\x02r\x03\x03ßcC\x08ËïÕ \x97ì5P\x07\x15%4r¢Úh\x83±.ü\x1b \\Ý÷íj  9\x9cßç²¡v\x16­\x99Î\x1e%:_\x93\x05§\x81él\x1dKGb\x02^;2\x1f\x89)\x00\x1e\x13\x01\x13\x03\x13\x02À+À/Ì©Ì¨À,À0À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x02\x0b\x00\x17\x00\x00ÿ\x01\x00\x01\x00\x00[0m" 400 -
